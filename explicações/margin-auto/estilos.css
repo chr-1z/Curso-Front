@@ -1,0 +1,9 @@
+div {
+    font-size: 30px;
+    background-color: magenta;
+
+    display: block;
+    width: 400px;
+    height: 400px;
+    
+}
